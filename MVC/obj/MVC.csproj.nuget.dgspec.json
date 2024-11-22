@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Atalhos Area de trabalho\\scripts\\Csharp Linguagem\\Webs\\System\\SemLimites_ERP_MVC\\MVC\\MVC.csproj": {}
+    "C:\\Users\\genil\\OneDrive\\Área de Trabalho\\script\\JavaScript.Node\\VS2022-Kauan\\MVC\\MVC.csproj": {}
   },
   "projects": {
-    "D:\\Atalhos Area de trabalho\\scripts\\Csharp Linguagem\\Webs\\System\\SemLimites_ERP_MVC\\MVC\\MVC.csproj": {
+    "C:\\Users\\genil\\OneDrive\\Área de Trabalho\\script\\JavaScript.Node\\VS2022-Kauan\\MVC\\MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Atalhos Area de trabalho\\scripts\\Csharp Linguagem\\Webs\\System\\SemLimites_ERP_MVC\\MVC\\MVC.csproj",
+        "projectUniqueName": "C:\\Users\\genil\\OneDrive\\Área de Trabalho\\script\\JavaScript.Node\\VS2022-Kauan\\MVC\\MVC.csproj",
         "projectName": "MVC",
-        "projectPath": "D:\\Atalhos Area de trabalho\\scripts\\Csharp Linguagem\\Webs\\System\\SemLimites_ERP_MVC\\MVC\\MVC.csproj",
-        "packagesPath": "C:\\Users\\DedSec🖥\\.nuget\\packages\\",
-        "outputPath": "D:\\Atalhos Area de trabalho\\scripts\\Csharp Linguagem\\Webs\\System\\SemLimites_ERP_MVC\\MVC\\obj\\",
+        "projectPath": "C:\\Users\\genil\\OneDrive\\Área de Trabalho\\script\\JavaScript.Node\\VS2022-Kauan\\MVC\\MVC.csproj",
+        "packagesPath": "C:\\Users\\genil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\genil\\OneDrive\\Área de Trabalho\\script\\JavaScript.Node\\VS2022-Kauan\\MVC\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DedSec🖥\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\genil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
